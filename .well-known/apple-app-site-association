@@ -1,1 +1,21 @@
-
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": [
+          "MM2PSKH2R5.app.parolix.lucian"
+        ],
+        "appID": "MM2PSKH2R5.app.parolix.lucian",
+        "paths": [
+          "/parolix/sfida*"
+        ],
+        "components": [
+          {
+            "/": "/parolix/sfida*"
+          }
+        ]
+      }
+    ]
+  }
+}

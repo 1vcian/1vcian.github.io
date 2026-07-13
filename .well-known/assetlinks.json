@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.parolix.lucian",
+      "sha256_cert_fingerprints": [
+        "FA:3E:F3:B3:DC:78:83:70:B1:B8:49:3C:17:74:CC:A5:80:5F:41:D1:81:57:0B:8D:72:87:37:65:1D:3A:13:6A",
+        "70:36:A5:59:5A:6A:30:A5:A9:26:EC:D3:D8:B4:9B:57:0E:A2:69:E5:12:B3:1B:B6:B2:45:7D:21:CD:D0:38:97"
+      ]
+    }
+  }
+]
