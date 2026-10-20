@@ -126,3 +126,6 @@ e-planning.net, f5147a97818958f1, RESELLER, c1ba615865ed87b2
 media.net, 8CU675N41, RESELLER
 video.unrulymedia.com, 703273072, RESELLER
 indexexchange.com, 216401, RESELLER, 50b1c356f2c5c8fc
+# Account propri (DIRECT): AdMob + Unity Ads — ott 2026
+google.com, pub-6730453046577275, DIRECT, f08c47fec0942fa0
+unity3d.com, 6871967511286, DIRECT, 96cabb5fbdde37a7
